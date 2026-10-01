@@ -13,6 +13,7 @@ Meetings run **2:30 to 4:30**. Matches start at **3:30**. The activity bus does 
 | **3:15** | **Ready up in Fenworks** | **Every rostered player checks in, including subs and anyone not playing the first game.** |
 | 3:30 | Matches start | Play, or support from your seat if you're subbing. |
 | After each game | Report | Captains confirm the score in Fenworks and send a screenshot to the coach. |
+| 4:05 | Matches are over | Even if every Smash game goes to time, a 3:30 match ends by 4:05. Use the time left for a post-match review or free play on the match title. |
 | **4:20** | **Pack up** | Log out of everything, shut down, put equipment back. |
 | 4:25 | Leave for the bus | Out the door as a group. |
 
@@ -28,7 +29,7 @@ Meetings run **2:30 to 4:30**. Matches start at **3:30**. The activity bus does 
 - [ ] Grab your bag, phone, and charger
 - [ ] Out the door by 4:25
 
-If a match is still running at 4:20, the coach decides whether players stay to finish. Do not leave a live match without telling the coach. A player who stays and misses the bus needs a ride arranged ahead of time.
+Matches are capped at 35 minutes, so a match that starts on time is done well before pack-up. If a match starts late and is still running at 4:20, the coach decides whether players stay to finish. Never leave a live match without telling the coach. A player who stays and misses the bus needs a ride arranged ahead of time.
 
 ## Norms
 
