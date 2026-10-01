@@ -49,6 +49,7 @@ nav:
   - Club:
       - About: club/about.md
       - Schedule: club/schedule.md
+      - Meeting Procedures & Norms: club/procedures.md
       - Forms & Links: club/forms.md
   - Players:
       - Getting Started: players/getting-started.md
