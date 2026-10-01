@@ -1,0 +1,59 @@
+site_name: Yellowjacket Esports
+site_description: Docs, schedules, and forms for the Newark High School Yellowjacket Esports program.
+site_url: https://ajcambron.github.io/YellowjacketEsports/
+repo_url: https://github.com/ajcambron/YellowjacketEsports
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Club:
+      - About: club/about.md
+      - Schedule: club/schedule.md
+      - Forms & Links: club/forms.md
+  - Players:
+      - Getting Started: players/getting-started.md
+      - Code of Conduct: players/code-of-conduct.md
+  - Coaches:
+      - Coach Handbook: coaches/handbook.md
+      - Meeting Notes: coaches/meetings.md
+  - Contributing: contributing.md
